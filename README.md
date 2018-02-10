@@ -5,4 +5,4 @@
 
 2.新建index.html
 ## 如何预览
-点击：https://luoshushu.github.io/20170711/ 即可。
+点击：https://luoshushu.github.io/REM/index.html 即可。
